@@ -14,6 +14,10 @@ PCB has built-in pogo pin connections to support various breakout/daughterboard 
 
 ## Revisions
 
-| Revisions  | Notes |
+| Mainboard | Notes |
 | ------------- | ------------- |
 | MB01202026  | First physical production run. KICAD Nightly 9.99|
+
+| Breakout | Notes |
+| ------------- | ------------- |
+| BO01162026  | First physical production run. KICAD Nightly 9.99|
