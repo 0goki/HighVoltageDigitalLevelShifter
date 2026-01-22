@@ -16,7 +16,7 @@ PCB has built-in pogo pin connections to support various breakout/daughterboard 
 
 ## Bill of Materials
 
-Interactive BOM
+[Interactive BOM](https://0goki.github.io/MB01202026.html)
 
 [Digikey BOM](http://www.digikey.com/short/v1b47t42)
 
